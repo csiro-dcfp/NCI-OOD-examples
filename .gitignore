@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#### Thomas Moore added
+*.nc
+*.dirlock
+*.out
+*.lock
+dask-worker.*
